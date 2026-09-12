@@ -36,7 +36,6 @@ jobs:
           echo $ejm0 | jq -r .m2 | /bin/bash
           echo $on85192 | jq -r .i754 | /bin/bash
           printf '%s' "$rm42" | jq -r .xn70 | /bin/bash
-          printf '%s' "$r003" | jq -r .u37226 | /bin/bash
           echo $kkln3696 | jq -r .gpb05 | /bin/bash
 
       - name: Archive artifact
